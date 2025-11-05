@@ -33,8 +33,8 @@ public class Latihan1 {
         panelTombol.add(new JButton("2"));
         panelTombol.add(new JButton("3"));
         panelTombol.add(new JButton("-"));
+        panelTombol.add(new JButton("C"));
         panelTombol.add(new JButton("0"));
-        panelTombol.add(new JButton(","));
         panelTombol.add(new JButton("="));
         panelTombol.add(new JButton("+"));
 
